@@ -131,7 +131,7 @@ Live: None
   - Minor changes to UI of items, still awaiting a full re-write here
   - Adjusted column widths on Stat Setup tab to make it easier to read
   
-  - Note: This version includes changes to language strings. Details are available in: https://github.com/Gerdofal/foundryvtt-cyberpunkred/blob/development/translation_changes.md
+  - Note: This version includes changes to language strings. Details are available in: https://github.com/izaius/foundryvtt-cyberpunkred/blob/development/translation_changes.md
   
 - 0.32 - Released 8/4/2020 - Beta (Bugfix Release)
   - Added language support for Simplified Chinese (Thanks Ztt1996#7972)

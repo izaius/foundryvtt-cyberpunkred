@@ -1,4 +1,4 @@
-![CyberpunkRED Media Card](https://github.com/Gerdofal/foundryvtt-cyberpunkred/blob/development/css/cpredmediacard2.png?raw=true "CyberpunkRED Media Card")
+![CyberpunkRED Media Card](https://github.com/izaius/foundryvtt-cyberpunkred/blob/development/css/cpredmediacard2.png?raw=true "CyberpunkRED Media Card")
 
 # Cyberpunk RED
 
@@ -23,7 +23,7 @@ ui_and_data_update:
 - This system is available in the "Game-systems" browser in-game and may be installed there.
 
 - You can also manually direct your FoundryVTT to the correct manifest. Use this as the manifest URL:
-  - https://raw.githubusercontent.com/Gerdofal/foundryvtt-cyberpunkred/stable_release/system.json
+  - https://raw.githubusercontent.com/izaius/foundryvtt-cyberpunkred/stable_release/system.json
 
 - If you want to manually install the files from the development branch, feel free. Just download the zip and install manually. I don't recommend this for anything other than testing as the development branch is sometimes non-functional.
 
@@ -31,7 +31,7 @@ ui_and_data_update:
 
 Release notes (and plans for future releases) are in their own file. Please see:
 
-https://github.com/Gerdofal/foundryvtt-cyberpunkred/blob/development/releasenotes.md
+https://github.com/izaius/foundryvtt-cyberpunkred/blob/development/releasenotes.md
 
 # Suggestions
 
@@ -64,8 +64,8 @@ Since playstyles vary greatly, this sheet is designed with the following in mind
 # License and Credits
 
 License:
-https://github.com/Gerdofal/foundryvtt-cyberpunkred/blob/development/license.md
+https://github.com/izaius/foundryvtt-cyberpunkred/blob/development/license.md
 
 Credits:
-https://github.com/Gerdofal/foundryvtt-cyberpunkred/blob/development/credits.md
+https://github.com/izaius/foundryvtt-cyberpunkred/blob/development/credits.md
 
